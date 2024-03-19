@@ -5,7 +5,7 @@ export class NavBar extends Component {
   handleNavLinkClick = () => {
     setTimeout(() => {
       window.location.reload();
-    }, 1000);
+    }, 10);
   };
 
   render() {
