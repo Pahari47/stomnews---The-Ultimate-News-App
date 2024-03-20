@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/stomnews---The-Ultimate-News-App/static/css/main.f855e6bc.css",
-    "main.js": "/stomnews---The-Ultimate-News-App/static/js/main.989b0a87.js",
+    "main.js": "/stomnews---The-Ultimate-News-App/static/js/main.bc542201.js",
     "static/js/453.a10bf4c9.chunk.js": "/stomnews---The-Ultimate-News-App/static/js/453.a10bf4c9.chunk.js",
     "index.html": "/stomnews---The-Ultimate-News-App/index.html",
     "main.f855e6bc.css.map": "/stomnews---The-Ultimate-News-App/static/css/main.f855e6bc.css.map",
-    "main.989b0a87.js.map": "/stomnews---The-Ultimate-News-App/static/js/main.989b0a87.js.map",
+    "main.bc542201.js.map": "/stomnews---The-Ultimate-News-App/static/js/main.bc542201.js.map",
     "453.a10bf4c9.chunk.js.map": "/stomnews---The-Ultimate-News-App/static/js/453.a10bf4c9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.989b0a87.js"
+    "static/js/main.bc542201.js"
   ]
 }
